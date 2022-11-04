@@ -1,0 +1,18 @@
+a{
+    color: #fff;
+    background-color: rgb(126, 128, 229);
+    border-radius: 14px;
+    padding: 10px;
+    margin-left: 30px;
+    position: relative;
+    top: 18px;
+    text-decoration: none;
+    
+}
+h2{
+    text-align: center;
+}
+.ra{
+    text-align: center;
+    color: blue;
+}
